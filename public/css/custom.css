@@ -1,0 +1,51 @@
+.worker-timecard-active{
+    background-color: #b9b9b9 !important;
+}
+
+.btn-sm-s{
+    font-size: 12px;
+    padding: 5px 10px;
+}
+
+.btn-primary{
+    background-color:#a000ff9e !important ;
+}
+
+.btn-primary:hover{
+    background-color:#22a7f0 !important ;
+}
+
+.print-input{
+    background: none !important;
+    border: none !important;
+}
+
+.staff-salary{
+    border: .5px solid #e2e2e2;
+    padding: 20px;
+}
+
+.table-borderless tr td{
+    border: none !important;
+}
+
+.voyager-campfire{
+    color:red !important;
+}
+
+input[type=checkbox], input[type=radio]{
+    width: 18px !important;
+    height: 18px !important;
+}
+
+.nav-tabs>li.active>a:hover{
+    background-color: #62a8ea !important;
+}
+.custon-nav-tabs .navbar-form{
+    margin: 6px -15px;
+}
+.custon-nav-tabs .navbar-form .form-control{
+    border-radius: 0 !important;
+    height: 30px;
+    margin: 0 10px;
+}
